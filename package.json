@@ -1,0 +1,11 @@
+{
+  "name": "mod-bot",
+  "version": "1.0.0",
+  "description": "Moderation bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Josh/Aver",
+  "license": "ISC"
+}
